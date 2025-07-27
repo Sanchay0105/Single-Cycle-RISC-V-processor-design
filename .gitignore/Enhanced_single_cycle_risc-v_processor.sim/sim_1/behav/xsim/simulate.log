@@ -1,3 +1,0 @@
-Time resolution is 1 ps
-Instruction at address 0: 00500093
-$finish called at time : 1 us : File "C:/Users/satyam/Desktop/Enhanced_single_cycle_risc-v_processor/Enhanced_single_cycle_risc-v_processor.srcs/sim_1/new/CPU_tb.v" Line 66
